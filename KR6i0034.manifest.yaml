@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0034_000.yaml, hash: 'sha256:3829721160df0ea604ce22394619ead1d36e71bf90d5f0e42b5db5c2ccb00388'}
-  - {seq: 1, filename: KR6i0034_001.yaml, hash: 'sha256:a7bbb3fdc85146007bf5db1d7d0fbe3fd7ea59b733f579d93616870f555c7a40'}
+  - {seq: 1, filename: KR6i0034_001.yaml, hash: 'sha256:748177da7648f1a260bbd60139cd806f30fb40d8510b1aad02af2388db40009a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0034_001.markers.yaml, hash: 'sha256:52f4f65e56bd710657d23c2a0c32aa19b4109dfc03189808ce351e288eecc816'}
+  - {seq: 0, role: markers, filename: assets/KR6i0034_000.markers.yaml, hash: 'sha256:6320857fa8b072f265aeb6cf83823aaa0e5dc9696a78bfa58b361019e5840f25'}
+  - {seq: 1, role: markers, filename: assets/KR6i0034_001.markers.yaml, hash: 'sha256:1777f3af450661025b1c993dbca1d12f149816cb60861a13373f9f4ef1e2085f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說彌勒下生成佛經
   type: juan
   level: 1
-hash: sha256:747b5bdf3cc706fe076dcb0559eb8edcf3a2a0faf40595b9f9298bab309dd6b9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:868478788aa5fcfcd3daaa1f727e02ad9a2f4fa81bf75e536dc5943005b9831e
